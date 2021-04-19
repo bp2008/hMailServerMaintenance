@@ -1,3 +1,2 @@
 # hMailServerMaintenance
-
-This project won't be useful to anyone else.
+A small Windows app that runs my hMailServer maintenance.  Not useful to anyone else.
