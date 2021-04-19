@@ -1,2 +1,3 @@
 # hMailServerMaintenance
-A small Windows app that runs hMailServer maintenance, intended to be run periodically via Task Scheduler.
+
+This project won't be useful to anyone else.
